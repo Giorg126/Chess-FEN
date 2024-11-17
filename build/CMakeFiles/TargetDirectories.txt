@@ -1,0 +1,5 @@
+/Users/Giorgio/Desktop/Giorg1/Menu/DTU/Exchange/Courses/Advanced Programming/Chess Movement ass/class-chess-123-main/build/CMakeFiles/tictactoe.dir
+/Users/Giorgio/Desktop/Giorg1/Menu/DTU/Exchange/Courses/Advanced Programming/Chess Movement ass/class-chess-123-main/build/CMakeFiles/package.dir
+/Users/Giorgio/Desktop/Giorg1/Menu/DTU/Exchange/Courses/Advanced Programming/Chess Movement ass/class-chess-123-main/build/CMakeFiles/package_source.dir
+/Users/Giorgio/Desktop/Giorg1/Menu/DTU/Exchange/Courses/Advanced Programming/Chess Movement ass/class-chess-123-main/build/CMakeFiles/edit_cache.dir
+/Users/Giorgio/Desktop/Giorg1/Menu/DTU/Exchange/Courses/Advanced Programming/Chess Movement ass/class-chess-123-main/build/CMakeFiles/rebuild_cache.dir
